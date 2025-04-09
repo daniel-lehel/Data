@@ -29,3 +29,21 @@ To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone <repository_url>
+
+## Visualizations
+### Taxi Trip Distribution by Month
+![image](https://github.com/user-attachments/assets/ce04ea10-785a-40fe-948c-3b49ec6ed904)
+
+### Average Trip Fare by Day of the Week
+![image](https://github.com/user-attachments/assets/367f23ab-98e9-4831-a889-a56097cf2d5b)
+
+### Top 10 Pickup Areas
+![image](https://github.com/user-attachments/assets/9a193477-4d7f-43f9-b964-103f94a40fb4)
+
+### Taxi Trip Distance Distribution
+![image](https://github.com/user-attachments/assets/6f96b00d-bab6-47e0-aceb-0ed8f80d6560)
+
+
+
+
+
