@@ -43,6 +43,10 @@ To set up the project, follow these steps:
 ### Taxi Trip Distance Distribution
 ![image](https://github.com/user-attachments/assets/6f96b00d-bab6-47e0-aceb-0ed8f80d6560)
 
+### Number of Taxi Trips by Day of the Week
+![image](https://github.com/user-attachments/assets/0e11f7d0-9fb0-458a-aae4-734862138ec4)
+
+
 
 
 
